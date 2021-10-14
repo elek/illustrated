@@ -26,7 +26,10 @@ PR can be created where the old version and new version of the SVG can be seen, 
 
 ![docs/0title.svg](docs/0title.svg)
 
-### docs/authservice.svg
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![docs/authservice.svg](docs/authservice.svg)
 
