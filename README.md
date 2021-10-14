@@ -22,52 +22,90 @@ PR can be created where the old version and new version of the SVG can be seen, 
 
 ## Diagrams
 
-### docs/0title.svg
-
 ![docs/0title.svg](docs/0title.svg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+```
+
+
+
+```
 
 ![docs/authservice.svg](docs/authservice.svg)
 
 ```
 
+
+
 ```
 
 ![docs/core.svg](docs/core.svg)
 
-### docs/edge.svg
+```
+
+
+
+```
 
 ![docs/edge.svg](docs/edge.svg)
 
-###docs/encrypted-keys.svg
+```
+
+
+
+```
 
 ![docs/encrypted-keys.svg](docs/encrypted-keys.svg)
 
-###docs/encrypted-path.svg
+```
+
+
+
+```
 
 ![docs/encrypted-path.svg](docs/encrypted-path.svg)
 
-###docs/grant.svg
+```
+
+
+
+```
 
 ![docs/grant.svg](docs/grant.svg)
 
-###docs/read1.svg
+```
+
+
+
+```
 
 ![docs/read1.svg](docs/read1.svg)
 
-###docs/read2.svg
+```
+
+
+
+```
 
 ![docs/read2.svg](docs/read2.svg)
 
-###docs/secrets.svg
+```
+
+
+
+```
 
 ![docs/secrets.svg](docs/secrets.svg)
 
-###docs/versioncontrol.svg
+```
+
+
+
+```
 
 ![docs/versioncontrol.svg](docs/versioncontrol.svg)
 
+```
+
+
+
+```
