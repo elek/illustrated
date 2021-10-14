@@ -1,0 +1,7 @@
+Some ideas to draw:
+
+ * allocated vs settled traffic
+
+ * Audit score ("Audit score never fall because of downtime. It can be only for lost pieces.")
+
+ * Suspension score ("Recently, my node has dropped suspension score for saltlake.tardigrade.io, and I don’t know why. I’m trying to figure out what the suspension score even means, but I cannot find any documentation. A few days ago, the suspension score was 95%. A day later, it was below 80%. Now it is around the 60% suspension breakpoint.")

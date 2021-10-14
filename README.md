@@ -22,19 +22,19 @@ PR can be created where the old version and new version of the SVG can be seen, 
 
 ## Diagrams
 
-###docs/0title.svg
+### docs/0title.svg
 
 ![docs/0title.svg](docs/0title.svg)
 
-###docs/authservice.svg
+### docs/authservice.svg
 
 ![docs/authservice.svg](docs/authservice.svg)
 
-###docs/core.svg
+### docs/core.svg
 
 ![docs/core.svg](docs/core.svg)
 
-###docs/edge.svg
+### docs/edge.svg
 
 ![docs/edge.svg](docs/edge.svg)
 
